@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+dash
+plotly-express
+dash-core-components
+dash-html-components
+dash-bootstrap-components
+dash-table
+plotly
