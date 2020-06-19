@@ -5,7 +5,7 @@ docker build -t dash .
 
 docker run -p 8050:8050 dash
 
-## Membres:
+## Members:
 
 Ahmed Rachid HAZOURLI
 
