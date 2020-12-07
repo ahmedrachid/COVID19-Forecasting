@@ -44,3 +44,9 @@ The dataset used is available in:
 docker build -t dash .
 docker run -p 8050:8050 dash
 ```
+
+## References
+
+- [Compartmental models in epidemiology](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology)
+- [Novel Coronavirus (COVID-19) Cases](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases)
+- [COVID-19 from WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/)
