@@ -27,7 +27,7 @@ SIR model allows us to describe the number of people in each compartment with th
 
 ## Visualisation
 
-Dash Plotly framework is used for visualising real / predicted cases for different countries.
+📺 Dash Plotly framework is used for interacting visualisation of real / predicted cases for different countries.
 
 ## 
 ## Data Sources
