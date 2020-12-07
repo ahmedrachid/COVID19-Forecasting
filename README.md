@@ -1,4 +1,6 @@
-# COVID19-Forecasting
+<h1 id="covid19_scenarios" align="center">
+  COVID19-Forecasting
+</h1>
 <blockquote align="center">
 Visualising and Simulating COVID-19 cases using statistical models
 </blockquote>
