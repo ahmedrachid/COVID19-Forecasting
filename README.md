@@ -8,6 +8,11 @@ The outbreak of the novel coronavirus disease brought considerable turmoil all a
 
 SIR model is a mathematical model describing the structure of how the infectious disease. It is a kind of compartmental model describing the dynamics of infectious disease. The model divides the population into compartments. Each compartment is expected to have the same characteristics. SIR represents the three compartments segmented by the model.
 
+- Susceptible
+- Infectious
+- Recovered
+Susceptible is a group of people who are vulnerable to exposure with infectious people. They can be patient when the infection happens. The group of infectious represents the infected people. They can pass the disease to susceptible people and can be recovered in a specific period. Recovered people get immunity so that they are not susceptible to the same illness anymore. SIR model is a framework describing how the number of people in each group can change over time.
+
 ## Visualisation
 
 Dash Plotly framework is used for visualising real / predicted cases for different countries.
