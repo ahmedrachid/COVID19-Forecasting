@@ -11,6 +11,7 @@ SIR model is a mathematical model describing the structure of how the infectious
 - Susceptible
 - Infectious
 - Recovered
+
 Susceptible is a group of people who are vulnerable to exposure with infectious people. They can be patient when the infection happens. The group of infectious represents the infected people. They can pass the disease to susceptible people and can be recovered in a specific period. Recovered people get immunity so that they are not susceptible to the same illness anymore. SIR model is a framework describing how the number of people in each group can change over time.
 
 ## Visualisation
