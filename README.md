@@ -1,13 +1,13 @@
 # COVID19-Forecasting
-Visualising and Simulating COVID-19 cases using statistical models
 
+Visualising and Simulating COVID-19 cases using statistical models
 COVID-19 is affecting us to a great extent. This project uses Johns Hopkins COVID-19 dataset for visualizing the impact of the viurs in the world and also predicting the cases for the next days.
 
-Dash Plotly framework is used for visualising actual/predicted cases for different countries.
+## Visualisation
+
+Dash Plotly framework is used for visualising real / predicted cases for different countries.
 
 ## 
-## Usage
-
 ## Data Sources
 
 The dataset used is available in:
@@ -22,16 +22,3 @@ The dataset used is available in:
 docker build -t dash .
 docker run -p 8050:8050 dash
 ```
-### Parameters one may changes/concerns
-
-* COVID-19 Dataset from different countries
-
-
-
-## Members:
-
-Ahmed Rachid HAZOURLI
-
-Anes MEKKI
-
-Anis BOUAZIZ
